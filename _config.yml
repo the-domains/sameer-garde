@@ -1,0 +1,28 @@
+name: Sameer Garde
+favicon: null
+layout_spectrum: 0.36594006698578596
+typography_spectrum: 0.04405196197330952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0853656753897667
+  lightness: 0.010844007134437561
+  saturation: 0.3558341294992715
+  rhythmicContrast: 0.43222001171670854
+purpose: []
